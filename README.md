@@ -91,7 +91,3 @@ This is intentionally simple. Realistic extensions a SOC analyst might add:
 - **IPv6 support** — the current parser handles IPv4 source addresses.
 - **Scheduled automation** — run on a cron or GitHub Actions schedule and post
   findings to Slack / e-mail / a SIEM.
-
-## License
-
-MIT
