@@ -1,0 +1,30 @@
+Mar 10 08:12:04 web01 sshd[8801]: Accepted publickey for deploy from 192.0.2.50 port 49880 ssh2
+Mar 10 08:45:31 web01 sshd[8932]: Accepted password for christoffer from 192.0.2.51 port 50122 ssh2
+Mar 10 09:03:18 web01 sshd[9011]: Failed password for christoffer from 192.0.2.51 port 50140 ssh2
+Mar 10 09:03:24 web01 sshd[9011]: Accepted password for christoffer from 192.0.2.51 port 50140 ssh2
+Mar 10 13:58:01 web01 sshd[14210]: Failed password for invalid user admin from 203.0.113.66 port 51001 ssh2
+Mar 10 13:58:02 web01 sshd[14211]: Failed password for invalid user admin from 203.0.113.66 port 51002 ssh2
+Mar 10 13:58:03 web01 sshd[14212]: Failed password for root from 203.0.113.66 port 51003 ssh2
+Mar 10 13:58:05 web01 sshd[14213]: Failed password for root from 203.0.113.66 port 51004 ssh2
+Mar 10 13:58:06 web01 sshd[14214]: Failed password for invalid user test from 203.0.113.66 port 51005 ssh2
+Mar 10 13:58:08 web01 sshd[14215]: Failed password for invalid user oracle from 203.0.113.66 port 51006 ssh2
+Mar 10 13:58:09 web01 sshd[14216]: Failed password for invalid user postgres from 203.0.113.66 port 51007 ssh2
+Mar 10 13:58:11 web01 sshd[14217]: Failed password for invalid user git from 203.0.113.66 port 51008 ssh2
+Mar 10 13:58:12 web01 sshd[14218]: Failed password for invalid user ubuntu from 203.0.113.66 port 51009 ssh2
+Mar 10 13:58:14 web01 sshd[14219]: Failed password for invalid user ftpuser from 203.0.113.66 port 51010 ssh2
+Mar 10 14:20:40 web01 sshd[15330]: Failed password for root from 198.51.100.23 port 40220 ssh2
+Mar 10 14:20:42 web01 sshd[15331]: Failed password for root from 198.51.100.23 port 40221 ssh2
+Mar 10 14:20:45 web01 sshd[15332]: Failed password for root from 198.51.100.23 port 40222 ssh2
+Mar 10 14:20:47 web01 sshd[15333]: Failed password for root from 198.51.100.23 port 40223 ssh2
+Mar 10 14:20:49 web01 sshd[15334]: Failed password for root from 198.51.100.23 port 40224 ssh2
+Mar 10 14:20:52 web01 sshd[15335]: Failed password for root from 198.51.100.23 port 40225 ssh2
+Mar 10 14:20:55 web01 sshd[15336]: Accepted password for root from 198.51.100.23 port 40226 ssh2
+Mar 10 15:10:02 web01 sshd[16001]: Failed password for invalid user backup from 192.0.2.99 port 33001 ssh2
+Mar 10 15:32:17 web01 sshd[16240]: Accepted publickey for deploy from 192.0.2.50 port 49990 ssh2
+Mar 10 16:44:50 web01 sshd[17880]: Failed password for invalid user admin from 203.0.113.200 port 60010 ssh2
+Mar 10 16:44:52 web01 sshd[17881]: Failed password for invalid user admin from 203.0.113.200 port 60011 ssh2
+Mar 10 16:44:54 web01 sshd[17882]: Failed password for invalid user administrator from 203.0.113.200 port 60012 ssh2
+Mar 10 16:44:56 web01 sshd[17883]: Failed password for invalid user user from 203.0.113.200 port 60013 ssh2
+Mar 10 16:44:58 web01 sshd[17884]: Failed password for invalid user guest from 203.0.113.200 port 60014 ssh2
+Mar 10 16:45:01 web01 sshd[17885]: Failed password for invalid user pi from 203.0.113.200 port 60015 ssh2
+Mar 10 17:58:30 web01 sshd[18990]: Accepted password for christoffer from 192.0.2.51 port 51220 ssh2
